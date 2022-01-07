@@ -1,3 +1,3 @@
-DEL * .err
+DEL *.err
 DEL *.obj
 DEL *.exe
